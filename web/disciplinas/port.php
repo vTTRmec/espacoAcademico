@@ -61,7 +61,7 @@ html,header,body,h1,h2,h3,h4,h5,h6, {font-family: "Roboto", sans-serif}
   
         <h2 class="w3-text-grey w3-padding-16">
           <img src="../img/port.png" class="w3-circle w3-grayscale-max w3-margin-right w3-xxlarge w3-text-teal" style="width: 10%;" alt="Norway"> Disciplina: Português  
-           <i class="fa fa-angle-double-left fa-fw w3-border-white w3-xxlarge" onclick="goToHome()" style="margin-left: 49%;">    
+           <i class="fa fa-angle-double-left fa-fw w3-border-white w3-xxlarge" onclick="goToHome()" style="margin-left: 45%;">    
          </i> 
         </h2>
   
