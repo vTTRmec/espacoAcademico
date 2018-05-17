@@ -37,7 +37,7 @@ html,header,body,h1,h2,h3,h4,h5,h6, {font-family: "Roboto", sans-serif}
           <center><p><i class="fa fa-info fa-fw w3-margin-right w3-large w3-text-teal"></i>Informações sobre o professor</p></center>
           <hr>
           <p><i class="fa fa-mortar-board fa-fw w3-margin-right w3-large w3-text-teal"></i>Formação Academica: Matemática - UCB</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>port.mat@espacocademico.com</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>mat.prof@espacocademico.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(61) 3333-5555</p>
           <hr>
 
