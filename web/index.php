@@ -65,7 +65,7 @@ img {
           </div>
           <br>
           <div>
-          <button onclick="location.href='#" type="button" class="w3-btn w3-white w3-border w3-border-teal w3-round-large" style="margin-left: 35%;">Sair</button>
+          <button onclick="location.href='https://www.google.com'" type="button" class="w3-btn w3-white w3-border w3-border-teal w3-round-large" style="margin-left: 35%;">Sair</button>
           </div>
            <br>
         </div>
