@@ -91,6 +91,18 @@ img {
           </div>
           <hr>
         </div>
+        <div class="w3-container" >
+            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-calendar-check-o fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+            Mensagem para os alunos
+              </h2> 
+            <textarea rows="5" placeholder="Envie uma mensagem para seus alunos" style="width: 100%; resize: none;"> 
+            </textarea>
+            <br>
+            <br>
+            <button class="w3-btn w3-teal w3-round-xlarge w3-right w3-padding-small"><h4> Enviar </h4></button>
+
+          </div>
+          <hr>
         </div>
         </div>
     	</div>
