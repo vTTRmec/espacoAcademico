@@ -47,8 +47,10 @@ img {
            <br>
         </div>
 
-
+        
       </div><br>
+
+    </div>
 
       <div class="w3-twothird">
     
@@ -102,10 +104,7 @@ img {
             <button class="w3-btn w3-teal w3-round-xlarge w3-right w3-padding-small"><h4> Enviar </h4></button>
 
           </div>
-          <hr>
-        </div>
-        </div>
-    	</div>
+          <hr> 
     </div>
   </div>
 </div>
